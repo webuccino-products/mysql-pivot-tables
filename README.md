@@ -1,16 +1,46 @@
-# 📊 Smart Pivot Table (MPT)
+# 📊  Smart Pivot Table - A Free MYSQL Pivot Table Builder
+
+Transform your MySQL data into insightful pivot tables with Smart Pivot Table—a completely free PHP tool that eliminates the need for coding. Its intuitive visual interface allows you to connect your database and define data sources instantly, making complex data analysis accessible to everyone.
+
+# What is a Pivot Table?
+
+A pivot table is a powerful data processing tool used to summarize, sort, reorganize, group, count, total, or average data stored in a database. It allows you to transform rows of raw data into a meaningful multidimensional summary without changing the original data.
 
 
-**Smart Pivot Table** is an **open-source**, PHP tool for building **MySQL Pivot Tables** visually — with **no coding required**, distributed under the **MIT license**.
 
-It allows you to:
 
-- Create pivot tables **visually**, without writing any complex SQL statements.  
-- Define rows, columns, values, and relationships using dropdowns.  
-- View instant summaries of your data in a clean UI.  
-- Customize the code freely if you know PHP.
+## Main Features of Smart Report Maker
 
-Whether you’re a developer, data analyst, or business user, this tool makes it easy to explore your MySQL data — **with zero code**.
+### Core Functionality
+
+- Visual Pivot Builder: Create complex MySQL pivot tables without writing SQL. Connect to databases, select tables or views, and map fields to axes using an intuitive graphical interface.
+- No-Code Data Shaping: Define rows, columns, and metrics through simple wizard.
+- Flexible Data Sources: Combine multiple tables or views with simplified join rules managed entirely through the UI.
+
+### Data Analysis & Logic
+
+ - Advanced Aggregations: Apply operations including Sum, Count, Average, Min, Max, Distinct Count, and custom expressions.
+ - Dynamic Filtering & Slicing: Implement row/column filters, date/numeric ranges, and interactive slices for real-time data exploration.
+ - Column Management: You can hide and show any columns from the table to focus on the data that matters most.
+   
+### Management & Deployment
+
+- Developer Friendly: While no-code by default, the tool is lightweight, fast, and allows for full PHP code customization for advanced users.
+- Easy Installation: Very easy to install and use; just upload the PHP files and get it to work out of the box.
+- Protect your definitions with a simple permission model for secure team collaboration.
+
+### UI & Performance
+
+- Accessibility: A modern interface allowing you to easily browse even large pivot tables.
+- Lightweight Architecture: Designed for rapid deployment on standard PHP/MySQL stacks with local storage for pivot repositories
+- Instant Summaries: View data transformations immediately within a clean, themed UI optimized for speed.
+
+## Benefits & Who It's For
+
+- Maximize Productivity: Save hours of manual work by generating visual MySQL pivot tables instantly without writing any code.
+- Customized Summaries: Summarize your data using any function you need and collaborate seamlessly with your team on shared insights.
+- Versatile Audience: Whether you are a developer, data analyst, or business owner, this tool makes it easy to explore and understand your MySQL data regardless of technical skill level.
+
 
 Built entirely using **native PHP**, it’s lightweight, easy to set up, and released under the **MIT License** — giving you full freedom to **use**, **modify**, and **distribute** it even in commercial projects.
 
