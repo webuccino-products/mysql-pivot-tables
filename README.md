@@ -107,7 +107,11 @@ After logging in, you’ll be greeted with a simple, intuitive interface to visu
 
 If you need advanced filtering options, custom parameters, or a more powerful pivot table builder, check out the upgraded module in Smart Report Maker:
 
+![Samrt Report Maker - Mysql PIVOT TABLE drag and drop editor](https://mysqlreports.com/wp-content/uploads/2021/01/srm10_bigprof.gif)
+
 [Explore our drag-and-drop editor for building MySQL Pivot Tables effortlessly.](https://mysqlreports.com/php-mysql-pivot-tables/)
+
+[Try the Demo version of Smart Report Maker.](https://demo.mysqlreports.com/pivot-tables/create)
 
 
 ## ❓ Frequently Asked Questions (FAQ)
@@ -128,5 +132,10 @@ Yes! Smart Pivot Table is open-source and released under the MIT License. You ca
 Yes, the MIT License allows you to modify the PHP code to fit your specific needs or integrate it into your existing web applications.
 
 #### Is MariaDB supported, or only MySQL?
-Yes, MariaDB is fully supported. Since MariaDB is a drop-in replacement for MySQL, Smart Pivot Table works seamlessly with MariaDB databases using the same connection settings.
+Yes, MariaDB is fully supported. Since MariaDB is a drop-in replacement for MySQL, Smart Pivot Table works seamlessly with MariaDB databases using the same connection settings. 
 
+##  Related Links
+
+ - [Explore our drag-and-drop editor for building MySQL Pivot Tables effortlessly.](https://mysqlreports.com/php-mysql-pivot-tables/)
+ - [Try the Demo version of Smart Report Maker.](https://demo.mysqlreports.com/pivot-tables/create)
+ - [Smart Report Maker Home Page.](https://mysqlreports.com/mysql-reporting-tools/the-best-mysql-report-builder/)
