@@ -1,4 +1,4 @@
-# 📊  Smart Pivot Table - A Free MYSQL Pivot Table Builder
+# 📊  Smart Pivot Table - An Open Source MYSQL Pivot Table Builder
 
 Transform your MySQL data into insightful pivot tables with Smart Pivot Table—a completely free PHP tool that eliminates the need for coding. Its intuitive visual interface allows you to connect your database and define data sources instantly, making complex data analysis accessible to everyone.
 
