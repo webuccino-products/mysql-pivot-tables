@@ -10,7 +10,7 @@ Its intuitive visual interface lets you connect your database and define pivot d
 
 ---
 
-## 🔹 Official Project
+##  Official Project
 
 Official Website: https://www.mysqlreports.com/  
 Pivot Tables Info Page: https://mysqlreports.com/php-mysql-pivot-tables/  
