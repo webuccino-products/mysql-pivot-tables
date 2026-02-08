@@ -1,8 +1,9 @@
 # Smart Pivot Table – Open-Source PHP MySQL Pivot Table Builder (MIT License)
 
-![License](https://img.shields.io/badge/license-MIT-green)
-![PHP](https://img.shields.io/badge/php-native-blue)
-![MySQL](https://img.shields.io/badge/mysql-mariadb-supported-orange)
+![License](https://img.shields.io/badge/license-community-blue)
+![PHP](https://img.shields.io/badge/php-7.4%2B-blue)
+![MySQL](https://img.shields.io/badge/Database-MySQL%20%7C%20MariaDB-orange)
+![No Code](https://img.shields.io/badge/No%20Code-Yes-success)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 Transform your MySQL data into insightful pivot tables with **Smart Pivot Table** — a completely free, open-source **PHP MySQL pivot table builder** that eliminates the need for coding.  
