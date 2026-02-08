@@ -14,7 +14,7 @@ Its intuitive visual interface lets you connect your database and define pivot d
 
 Official Website: https://www.mysqlreports.com/  
 Pivot Tables Info Page: https://mysqlreports.com/php-mysql-pivot-tables/  
-Repository: https://github.com/YOUR_GITHUB_ACCOUNT/YOUR_REPO  
+official Repository: https://github.com/webuccinoco/mysql-pivot-tables  
 
 ⚠️ This is the original and official repository of Smart Pivot Table.
 
